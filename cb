@@ -1,0 +1,58 @@
+[33mcommit d124becdb436939eaec41bcc0d2fa60f8cc6ab5b[m[33m ([m[1;36mHEAD[m[33m)[m
+Author: Luan Bourbon <Luanbourbon@gmail.com>
+Date:   Fri Jul 14 17:22:19 2023 -0300
+
+    Revert "adicionando um arquivo"
+    
+    This reverts commit ca40f40eef35f564c09c2bb3f3a24489fae4602e.
+
+ teste.txt | Bin [31m12[m -> [32m0[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit ca40f40eef35f564c09c2bb3f3a24489fae4602e[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Luan Bourbon <Luanbourbon@gmail.com>
+Date:   Fri Jul 14 17:17:05 2023 -0300
+
+    adicionando um arquivo
+
+ teste.txt | Bin [31m0[m -> [32m12[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit d2158142e7e63d40deb04298d3460796f78e42ab[m
+Author: Luan Bourbon <Luanbourbon@gmail.com>
+Date:   Fri Jul 14 16:31:22 2023 -0300
+
+    inclusão de changelog.md
+
+ changelog.md | 9 [32m+++++++++[m
+ 1 file changed, 9 insertions(+)
+
+[33mcommit 1f3d4a479a206da7ffea276606d154d2ab065cfa[m
+Author: Luan Bourbon <Luanbourbon@gmail.com>
+Date:   Fri Jul 14 16:20:08 2023 -0300
+
+    colocando acentuação no arquivo2.txt
+
+ arquivo2.txt | Bin [31m34[m -> [32m34[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 169aa7b6face437335bc4ae53fab41752b00a1d1[m
+Author: Luan Bourbon <Luanbourbon@gmail.com>
+Date:   Fri Jul 14 16:19:09 2023 -0300
+
+    alterando o coteundo de arquivo2.txt
+
+ arquivo2.txt | Bin [31m28[m -> [32m34[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit b2be58b5872d2228dc5a4ff8667253b55e0e4923[m
+Author: Luan Bourbon <Luanbourbon@gmail.com>
+Date:   Fri Jul 14 16:11:35 2023 -0300
+
+    inclusão de arquivos
+    
+    inclusão dos arquivos: arquivo.txt e arquivo2txt
+
+ arquivo.txt  | Bin [31m0[m -> [32m24[m bytes
+ arquivo2.txt | Bin [31m0[m -> [32m28[m bytes
+ 2 files changed, 0 insertions(+), 0 deletions(-)
